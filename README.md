@@ -1,1 +1,1 @@
-I have created Ecommerce Website using HTML,CSS,JavaScript and ReactJs as a frontend, Laravel as a backend and phpMyAdmin as a database.
+I have created Ecommerce Website using HTML , CSS , JavaScript and ReactJs as a frontend, Laravel as a backend and phpMyAdmin as a database. It includes register, login, logout feature once done we can add, delete, update or search a product .
